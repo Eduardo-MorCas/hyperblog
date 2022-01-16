@@ -7,3 +7,6 @@ En platzi espero:
  * Una mejor nocion de como funciona el internet y el mundo actual
  * Espero un dia tener la oportunidad de que Brenda me vuelva a hablar
  * Creado por la increible platzi-team
+ * Creado por la increible platzi-team
+ * Incluye ejemplos en linux y mac
+ *Disponible para todas las edades
